@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/share_note"
+        android:title="Share via gmail"/>
+
+    <item android:id="@+id/delet_note"
+        android:title="Delete"/>
+
+
+</menu>
